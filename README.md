@@ -2,7 +2,7 @@
 
 Este proyecto es para poner en práctica lo que estado aprendiendo en el bootcamp de "The Odin Project". 
 
-![imagen Proyecto de Recetas]()
+![imagen Proyecto de Recetas](images/Captura%20desde%202025-10-14%2000-11-55.png)
 
 ## Las habilidades que desarrollaré
 las habilidades que desarrollaré son:
