@@ -1,0 +1,96 @@
+#home {
+    background-color: #84b6f4;
+}
+
+#page-1 {
+    background-color: #fdfd96;
+}
+
+#page-2 {
+    background-color: #ff6961;
+    color: white;
+}
+
+#page-3 {
+    background-color: #77dd77;
+}
+
+#title-home {
+    text-align: center;
+    font-size: 40px;
+    font-family: "BBH Sans Hegarty", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.title {
+    text-align: center;
+    font-size: 80px;
+    font-family: "Tilt Prism", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    font-variation-settings:
+        "XROT" 0,
+        "YROT" 0;
+}
+
+#title-page-1 {
+    background-color: #CCCC4D;
+    color: white;
+}
+
+#title-page-2 {
+    background-color: #B34A44;
+    color: white;
+}
+
+#title-page-3 {
+    background-color: #386E38;
+    color: white;
+}
+
+.ancla {
+    display: block;
+    text-align: center;
+}
+
+.img {
+    display: block;
+    margin: 40px auto;
+    width: 600px;
+    height: 400px;
+}
+
+.p {
+    font-family: "Pacifico", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.sub-title {
+    font-size: 45px;
+    font-family: "Barrio", system-ui;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.ul, .ol {
+    font-family: "Shadows Into Light", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.p, .ul, .ol {
+    text-align: justify;
+    font-size: 20px;
+}
+
+#list-home {
+    text-align: left;
+    font-size: 20px;
+    color: white;
+    font-family: "Playwrite DE Grund Guides", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
